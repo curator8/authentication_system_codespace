@@ -1,0 +1,20 @@
+{
+  "name": "testing_codespace_proj",
+  "version": "1.0.0",
+  "description": "project created entirely on codespace",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/curator8/testing_codespace_proj.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/curator8/testing_codespace_proj/issues"
+  },
+  "homepage": "https://github.com/curator8/testing_codespace_proj#readme"
+}
